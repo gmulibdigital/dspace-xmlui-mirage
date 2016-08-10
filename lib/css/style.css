@@ -203,13 +203,12 @@ color: #F5F5F5;
 }
 
 #ds-footer-logo {
-/*    display: inline-block;
-
-    background: url('../../images/@mirelogo-small.png');
+    display: inline-block;
+    background: url('../../images/masonPublishingLogo.png');
     background-repeat: no-repeat;
-    width: 79px;
+    width: 120px;
     height: 40px
-*/
+
 ;
 }
 
