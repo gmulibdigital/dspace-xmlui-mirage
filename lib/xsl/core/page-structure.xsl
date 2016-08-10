@@ -589,7 +589,7 @@
                 <div id="ds-footer-right">
                     <span class="theme-by">A Service of&#160;</span>
                     <a title="Mason Publishing" target="_blank" href="http://publishing.gmu.edu" id="ds-footer-logo-link">
-                    <span id="ds-footer-logo">&#160;<img src="../../images/masonPublishingLogo.png"</span>
+                    <span id="ds-footer-logo">&#160;<img src="../../images/masonPublishingLogo.png" /></span>
                     </a>
                 </div>
                 <div id="ds-footer-links">
