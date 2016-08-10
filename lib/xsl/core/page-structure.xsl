@@ -587,9 +587,9 @@
                     <a href="http://www.dspace.org/" target="_blank">DSpace software</a> copyright&#160;&#169;&#160;2002-2015&#160; <a href="http://www.duraspace.org/" target="_blank">DuraSpace</a>
                 </div>
                 <div id="ds-footer-right">
-                    <span class="theme-by">Theme by&#160;</span>
-                    <a title="@mire NV" target="_blank" href="http://atmire.com" id="ds-footer-logo-link">
-                    <span id="ds-footer-logo">&#160;</span>
+                    <span class="theme-by">A Service of&#160;</span>
+                    <a title="Mason Publishing" target="_blank" href="http://publishing.gmu.edu" id="ds-footer-logo-link">
+                    <span id="ds-footer-logo">&#160;<img src="../../images/masonPublishingLogo.png"</span>
                     </a>
                 </div>
                 <div id="ds-footer-links">
