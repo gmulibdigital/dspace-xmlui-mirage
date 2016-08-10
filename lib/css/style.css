@@ -204,9 +204,9 @@ color: #F5F5F5;
 
 #ds-footer-logo {
     display: inline-block;
-    background: url('../../images/masonPublishingLogo.png');
+    background: url('../../images/masonPublishingLogo-small.png');
     background-repeat: no-repeat;
-    width: 120px;
+    width: 79px;
     height: 40px
 
 ;
