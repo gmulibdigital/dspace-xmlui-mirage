@@ -46,21 +46,21 @@ img.ds-authority-confidence
 { width: 16px; height: 16px; margin: 0px 2px; padding: 0px; vertical-align: bottom; display: inline-block;}
 
 img.ds-authority-confidence.cf-unset
-  { background: transparent url(../../images/authority_control/confidence/bug.png); }
+  /*{ background: transparent url(../../images/authority_control/confidence/bug.png); }*/
 img.ds-authority-confidence.cf-novalue
   /* { background: transparent } */
-  { background: transparent url(../../images/authority_control/confidence/3-circleslash.gif); }
+  /*{ background: transparent url(../../images/authority_control/confidence/3-circleslash.gif); }*/
 img.ds-authority-confidence.cf-rejected,
 img.ds-authority-confidence.cf-failed
-  { background: transparent url(../../images/authority_control/confidence/2-errortriangle.gif); }
+  /*{ background: transparent url(../../images/authority_control/confidence/2-errortriangle.gif); }*/
 img.ds-authority-confidence.cf-notfound
-  { background: transparent url(../../images/authority_control/confidence/3-thumb2.gif); }
+  /*{ background: transparent url(../../images/authority_control/confidence/3-thumb2.gif); }*/
 img.ds-authority-confidence.cf-ambiguous
-  { background: transparent url(../../images/authority_control/confidence/4-question.gif); }
+  /*{ background: transparent url(../../images/authority_control/confidence/4-question.gif); }*/
 img.ds-authority-confidence.cf-uncertain
-  { background: transparent url(../../images/authority_control/confidence/5-pinion.gif); }
+  /*{ background: transparent url(../../images/authority_control/confidence/5-pinion.gif); }*/
 img.ds-authority-confidence.cf-accepted
-  { background: transparent url(../../images/authority_control/confidence/6-thumb2.gif); }
+  { background: transparent url(../../images/authority_control/orcid.png); }
 
 /* hide authority-value inputs in forms */
 input.ds-authority-value { display:none; }
