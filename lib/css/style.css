@@ -998,6 +998,7 @@ table.detailtable td.label-cell {
 
 #impact-altmetric {
     float:right;
+    padding-left: 1em;
 }
 
 div.item-summary-view-metadata h1,
