@@ -996,6 +996,10 @@ table.detailtable td.label-cell {
     width: 100px;
 }
 
+#impact-altmetric {
+    float:right;
+}
+
 div.item-summary-view-metadata h1,
 div.item-summary-view-metadata h2 {
     line-height: normal;
